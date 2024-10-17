@@ -1,5 +1,14 @@
 #[test]
 
+/*
+// FILL in the blank
+// in __.rs
+
+mod front_of_house {
+    // IMPLEMENT this module..
+}
+*/
+
 // src/lib.rs
 
 // Оголошення модуля front_of_house
